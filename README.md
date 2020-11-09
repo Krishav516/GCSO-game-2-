@@ -1,2 +1,2 @@
-# GCSO-game-2-
-play the game.......
+# p5.play-boilerplate
+Boiler plate for p5.play
